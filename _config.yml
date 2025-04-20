@@ -1,0 +1,51 @@
+title: TI no Canadá
+url: https://ti-no-canada.github.io/imigracao-para-o-canada
+repository: https://github.com/ti-no-canada/imigracao-para-o-canada
+description: >
+  O objetivo deste site é auxiliar brasileiros e falantes de português com informações úteis sobre o Canadá. Explore os conteúdos, pesquise constantemente e participe do nosso grupo no Telegram para tirar dúvidas e compartilhar experiências.
+
+theme: just-the-docs
+nav_enabled: true
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
+  - docs/assets
+  - docs/.github
+  - docs/_sass
+  - docs/_config.yml
+
+aux_links:
+  Telegram: https://t.me/tinocanada
