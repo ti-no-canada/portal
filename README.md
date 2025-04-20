@@ -1,6 +1,6 @@
-# TI no Canadá
+# Portal TI no Canadá
 
-TI no Canadá is a website for the TI no Canadá Telegram community, serving as a hub for resources, updates, and information. Contributions are welcome via **Pull Requests**.
+ [TI no Canada Portal](https://ti-no-canada.github.io/portal/) for the TI no Canadá Telegram community, serving as a hub for resources, updates, and information. Contributions are welcome via **Pull Requests**.
 
 ## How to Contribute
 
