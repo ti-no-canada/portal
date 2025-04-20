@@ -8,12 +8,12 @@
 
 1. Clone the repository with submodules:
   ```bash
-  git clone --recurse-submodules https://github.com/ti-no-canada/site.git
+  git clone --recurse-submodules https://github.com/ti-no-canada/portal.git
   ```
 
 2. Navigate to the project directory:
   ```bash
-  cd tinocanada-site
+  cd portal
   ```
 
 3. Build and start the development environment using Docker:
