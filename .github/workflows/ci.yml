@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: true # Ensures git submodules are fetched
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
