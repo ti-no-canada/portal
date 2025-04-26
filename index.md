@@ -18,3 +18,9 @@ Desde outubro de 2017, o grupo de TI no Canadá no Telegram tem sido uma comunid
 Se você está no Canadá, no Brasil ou em qualquer outro lugar do mundo, convidamos você a fazer parte dessa comunidade incrível. Venha fortalecer nossa rede de apoio e contribuir para o crescimento de todos. Juntos, podemos alcançar nossos objetivos e construir um futuro melhor!
 
 [Entre no grupo agora](https://t.me/tinocanada){:target="_blank"}
+
+
+<p align="center">
+<img src="https://badges.pufler.dev/visits/ti-no-canada/portal"></img> &nbsp;
+Obrigado por sua visita
+</p>
