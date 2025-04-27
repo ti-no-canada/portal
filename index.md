@@ -6,21 +6,20 @@ nav_order: 1
 
 ## TI no Canadá
 
-Desde outubro de 2017, o grupo de TI no Canadá no Telegram tem sido uma comunidade vibrante de brasileiros que compartilham o objetivo de construir uma vida no Canadá. Nosso grupo é composto por membros que estão no Canadá, no Brasil e em várias outras partes do mundo, unidos pelo desejo de ajudar e aprender uns com os outros.
+Desde outubro de 2017, o grupo TI no Canadá no Telegram tem sido um ponto de encontro essencial para profissionais de tecnologia interessados em construir uma carreira no Canadá. Nossa comunidade reúne brasileiros que já vivem no país, aqueles que estão planejando sua mudança, e entusiastas espalhados pelo mundo - todos unidos pelo objetivo comum de compartilhar conhecimento e experiências sobre a vida e trabalho no Canadá.
 
-### O que você encontrará no grupo:
-- **Histórias e relatos inspiradores**: [Membros compartilham suas experiências de vida e trabalho no Canadá](https://t.me/tinocanada/142249){:target="_blank"}.
-- **Ajuda com currículos e recolocação profissional**: A comunidade colabora ativamente para [revisar currículos e oferecer dicas valiosas para o mercado de trabalho canadense](https://t.me/tinocanada/142279){:target="_blank"}.
-- **Apoio mútuo**: Seja para tirar dúvidas, [compartilhar oportunidades](https://t.me/tinocanada/142250){:target="_blank"} ou [simplesmente trocar ideias](https://t.me/tinocanada/1){:target="_blank"}, o grupo é um espaço acolhedor para todos.
+### Nossa Comunidade Oferece:
+- **Experiências Reais e Inspiradoras**: [Histórias autênticas de membros que já fizeram a transição e construíram suas vidas no Canadá](https://t.me/tinocanada/142249){:target="_blank"}.
+- **Desenvolvimento Profissional**: [Suporte na adaptação do seu currículo ao mercado canadense, dicas de entrevistas e orientação sobre processos seletivos](https://t.me/tinocanada/142279){:target="_blank"}.
+- **Networking e Oportunidades**: [Compartilhamento de vagas](https://t.me/tinocanada/142250){:target="_blank"}, [discussões enriquecedoras](https://t.me/tinocanada/1){:target="_blank"} e conexões profissionais valiosas.
+- **Informações Práticas**: Orientações sobre processos migratórios, custo de vida, moradia, educação e adaptação cultural.
 
+### Faça Parte Desta Comunidade
+Seja você um profissional experiente, alguém em início de carreira, ou apenas interessado em explorar oportunidades no Canadá, há espaço para você em nossa comunidade. Junte-se a milhares de profissionais que já fazem parte desta rede de apoio e conhecimento.
 
-### Junte-se a nós!
-Se você está no Canadá, no Brasil ou em qualquer outro lugar do mundo, convidamos você a fazer parte dessa comunidade incrível. Venha fortalecer nossa rede de apoio e contribuir para o crescimento de todos. Juntos, podemos alcançar nossos objetivos e construir um futuro melhor!
-
-[Entre no grupo agora](https://t.me/tinocanada){:target="_blank"}
-
+[Participe do Grupo](https://t.me/tinocanada){:target="_blank"}
 
 <p align="center">
-<img src="https://badges.pufler.dev/visits/ti-no-canada/portal"></img> &nbsp;
+<img src="https://badges.pufler.dev/visits/ti-no-canada/portal"/> &nbsp;
 Obrigado por sua visita
 </p>

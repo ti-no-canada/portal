@@ -1,42 +1,42 @@
 # Portal TI no Canadá
 
- [TI no Canada Portal](https://ti-no-canada.github.io/portal/) for the TI no Canadá Telegram community, serving as a hub for resources, updates, and information. Contributions are welcome via **Pull Requests**.
+O [Portal TI no Canadá](https://ti-no-canada.github.io/portal/) é o site oficial da comunidade TI no Canadá no Telegram, servindo como um centro de recursos, atualizações e informações. Contribuições são bem-vindas através de **Pull Requests**.
 
-## How to Contribute
+## Como Contribuir
 
-### Local Development Setup
+### Configuração do Ambiente de Desenvolvimento Local
 
-1. Clone the repository with submodules:
+1. Clone o repositório com submódulos:
   ```bash
   git clone --recurse-submodules https://github.com/ti-no-canada/portal.git
   ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
   ```bash
   cd portal
   ```
 
-3. Build and start the development environment using Docker:
+3. Construa e inicie o ambiente de desenvolvimento usando Docker:
   ```bash
   docker-compose up --build -d
   ```
 
-4. Access the website locally at `http://localhost:4000`.
+4. Acesse o site localmente em `http://localhost:4000`.
 
-Feel free to contribute and help improve this platform!
+Sinta-se à vontade para contribuir e ajudar a melhorar esta plataforma!
 
-## About the Jekyll Template
+## Sobre o Template Jekyll
 
-This project uses the [Just the Docs] theme for Jekyll, which supports:
+Este projeto utiliza o tema [Just the Docs] para Jekyll, que oferece suporte para:
 
-- GitHub Pages deployment via Actions.
-- Local builds and previews.
-- Easy customization and plugin support.
+- Implantação no GitHub Pages via Actions
+- Builds e previews locais
+- Fácil personalização e suporte a plugins
 
-## Licensing
+## Licenciamento
 
-This repository is licensed under the [MIT License]. Feel free to reuse or extend the code, and let us know how we can improve it!
+Este repositório está licenciado sob a [Licença MIT]. Sinta-se à vontade para reutilizar ou estender o código, e nos avise como podemos melhorá-lo!
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
+[Licença MIT]: https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT
