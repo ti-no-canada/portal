@@ -23,6 +23,13 @@ O [Portal TI no Canadá](https://ti-no-canada.github.io/portal/) é o site ofici
 
 4. Acesse o site localmente em `http://localhost:4000`.
 
+
+5. Se você precisar incluir novas dependências e gerar o arquivo `Gemfile.lock`
+
+```bash
+docker run --rm -v "${PWD}:/usr/src/app" -w /usr/src/app ruby:3.2 bundle install
+```
+
 Sinta-se à vontade para contribuir e ajudar a melhorar esta plataforma!
 
 ## Sobre o Template Jekyll
